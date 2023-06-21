@@ -7,3 +7,6 @@ Oranges
 Carrots
 Eggs
 Tomato
+Cucumber
+Meat
+Fish
